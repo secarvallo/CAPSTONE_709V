@@ -1,8 +1,8 @@
 # CAPSTONE_709V
-Proyecto diagnóstico temprano de Cáncer
-Contexto
+## Proyecto diagnóstico temprano de Cáncer
+# Contexto
 El cáncer pulmonar representa una de las formas más prevalentes y letales de cáncer a nivel global, caracterizado por el crecimiento descontrolado de células anormales en los pulmones que pueden invadir tejidos adyacentes y metastatizar a otros órganos vitales, lo que frecuentemente resulta en un desenlace fatal si no se detecta a tiempo. Según estadísticas recientes, el cáncer pulmonar es el cáncer más comúnmente diagnosticado en el mundo, representando el 12.4% de todos los casos de cáncer, y es la principal causa de muerte por cáncer en hombres en varios países de América Latina, incluyendo Chile, donde se proyecta una tasa de mortalidad de 12.0 por 100.000 habitantes para 2025. En Chile, el cáncer en general registra una incidencia anual de aproximadamente 59.876 casos y 31.440 muertes, con el cáncer pulmonar destacando como una de las principales causas, influenciado por factores como el tabaquismo, la exposición ambiental a contaminantes y predisposiciones genéticas. A nivel mundial, se estima que alrededor de 2.2 millones de personas son diagnosticadas anualmente con cáncer pulmonar, siendo la segunda causa de muerte en mujeres y la primera en hombres en muchas regiones. Sin embargo, un diagnóstico temprano puede elevar la tasa de supervivencia del 15-20% en etapas avanzadas a más del 50-60% en fases iniciales, permitiendo intervenciones oportunas como cirugía, quimioterapia o radioterapia.
 
-Problema
+# Problema
 El cáncer es una enfermedad grave que puede invadir los órganos vitales y en muchas ocasiones ser mortal, según las estadísticas, es la segunda causa de muerte en Chile y a nivel mundial, sin embargo, un diagnóstico temprano mejora considerablemente la expectativa de vida de las personas afectadas por esta enfermedad.
 El machine learning es de gran utilidad en el diagnóstico precoz del cáncer, los sistemas que lo incorporan pueden «aprender» sobre esta enfermedad y detectar una dolencia con la misma exactitud que un médico y comenzar a tratar los síntomas de la enfermedad cuando antes, incluso antes de que llegue a manifestarse.
